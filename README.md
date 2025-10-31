@@ -1,41 +1,139 @@
-# 👋 Hey, I’m Noor  
+# 👨‍💻 Noor | Founder & CEO
 
-🚀 Founder of **HESOFTS**, **Hoyist**, **Wapiar**, and **GetMediaFame**  
-💼 CEO at **HOYIST** & **HESOFTS**  
-🌐 Digital Marketing • Branding • Web Hosting • Automation • Server Management  
-
----
-
-### ☕ Midnight Code • Big Ideas • Endless Coffee  
-I don’t sleep much — I **build**, **fix**, and **launch**.  
-From servers to social media, I turn digital chaos into clean systems that make real money.  
-
-When the world’s offline, I’m somewhere between caffeine and code — building the next thing that changes how brands work online.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Founder-HESOFTS-blue" alt="Founder of HESOFTS">
+  <img src="https://img.shields.io/badge/Founder-Hoyist-orange" alt="Founder of Hoyist">
+  <img src="https://img.shields.io/badge/Founder-Wapiar-green" alt="Founder of Wapiar">
+  <img src="https://img.shields.io/badge/Founder-GetMediaFame-purple" alt="Founder of GetMediaFame">
+</p>
 
 ---
 
-### 💬 What Clients Say  
-> “Noor turned my broken site into a brand machine — smooth, fast, and stylish.”  
-> — *Ethan Javo, CEO of WebScale*  
+## 🚀 About Me
 
-> “This guy doesn’t just build websites. He builds systems that run like businesses.”  
-> — *Jason Mack, Brand Manager at NovaTech*  
+> *"Midnight Code • Big Ideas • A Strong Plan"*
 
-> “All I said was ‘I need automation’ — now my support team’s workload dropped 70%.”  
-> — *Jake LA, Founder of CDPluse*  
+I'm a serial entrepreneur and digital architect who turns digital chaos into clean, profitable systems. When the world sleeps, I'm building the next thing that changes how brands work online.
 
-> “Bro, my plumbing service started ranking top 3 in my city — sales up 40% in a week.”  
-> — *Tom Hardy, Owner of FixFlow Plumbing*  
-
----
-
-### ⚡ My Focus  
-- Hosting that never quits  
-- WordPress that actually loads fast  
-- Automation that saves hours  
-- Branding that feels alive  
+**Companies I've Built:**
+- 🏢 **HESOFTS** - All in one Solutions
+- 🎯 **Hoyist** - Web Hosting Innovation
+- 🌐 **Wapiar** - Automations Technologies  
+- 📈 **GetMediaFame** - Digital Marketing
 
 ---
 
-📩 **Let’s talk business:** [sayhello@getmediafame.com](mailto:sayhello@getmediafame.com)  
-🌍 [Wapiar.com](https://wapiar.com) • [Instagram](http://instagram.com/wapiar_com/#) • [Facebook](https://web.facebook.com/wapiarofficial)
+## 💼 What I Do
+
+| Domain | Expertise |
+|--------|-----------|
+| 🌐 **Web Hosting** | Rock-solid infrastructure that never quits |
+| ⚡ **WordPress** | Lightning-fast, optimized installations |
+| 🤖 **Automation** | Systems that save hours and reduce workload |
+| 🎨 **Branding** | Visual identities that feel alive and convert |
+| 📊 **Digital Marketing** | Strategies that drive real business growth |
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+```python
+class Noor:
+    def __init__(self):
+        self.companies = {
+            "HESOFTS": "All in one Solutions",
+            "Hoyist": "Web Hosting Innovation", 
+            "Wapiar": "Automations Technologies",
+            "GetMediaFame": "Digital Marketing"
+        }
+        self.expertise = {
+            "frontend": ["HTML5", "CSS3", "JavaScript", "PHP", "WordPress", "Elementor"],
+            "marketing": ["SEO", "Automation", "Brand Strategy", "Growth Hacking"],
+            "business": ["CEO Operations", "Team Leadership", "Product Development"]
+        }
+        
+    def say_hello(self):
+        return "Let's build something amazing together!"
+        
+    def current_status(self):
+        return "💻 Building | 🚀 Launching | 💰 Making It Print"
+```
+
+---
+
+## 📈 Client Success Stories
+
+> ### 🎯 Web Transformation
+> **"Noor turned my broken site into a brand machine — smooth, fast, and stylish."**  
+> *— Ethan Javo, CEO of WebScale*
+
+> ### 🤖 Automation Excellence  
+> **"All I said was 'I need automation' — now my support team's workload dropped 70%."**  
+> *— Jake LA, Founder of CDPluse*
+
+> ### 📈 Revenue Growth
+> **"Bro, my plumbing service started ranking top 3 in my city — sales up 40% in a week."**  
+> *— Tom Hardy, Owner of FixFlow Plumbing*
+
+> ### 💼 Business Systems
+> **"This guy doesn't just build websites. He builds systems that run like businesses."**  
+> *— Jason Mack, Brand Manager at NovaTech*
+
+---
+
+## 🌟 My Philosophy
+
+```bash
+# My Development Mantra
+while True:
+    build()
+    launch()
+    make_it_print()
+    if motivation < 100%:
+        execute_strong_plan()
+    else:
+        continue_scaling()
+```
+
+**Core Beliefs:**
+- 🎯 **Execution over ideas** - Ideas are cheap, execution is everything
+- ⚡ **Speed matters** - Fast loading = better conversions  
+- 🤝 **Client success = My success** - Your growth is my priority
+- 🔄 **Always optimizing** - There's always room for improvement
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:sayhello@getmediafame.com">
+    <img src="https://img.shields.io/badge/Email-sayhello@getmediafame.com-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+</p>
+
+---
+
+### ⚡ Current Status: **Building the next big thing**  
+### ☕ Fuel: **A Strong Plan**  
+### 🎯 Mission: **Turning ideas into profitable digital realities**
+
+---
+
+<p align="center">
+  <i>"I don't daydream much — I build, launch and make sh*t print"</i>
+</p>
